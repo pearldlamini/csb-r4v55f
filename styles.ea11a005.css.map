@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,KACE,kBACF,CAOA,YACE,iBACF,CAEA,SACE,aAAc,CACd,WACF","file":"styles.ea11a005.css","sourceRoot":"..","sourcesContent":["body {\n  background: #f8e8a6;\n}\n\nh1,\np {\n  text-align: center;\n}\n\nfooter {\n  text-align: center;\n}\n\nfooter a {\n  margin: 0 10px;\n  color: green;\n}\n"]}
